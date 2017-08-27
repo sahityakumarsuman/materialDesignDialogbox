@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="alrt_msg">After reading the lessons in this class, you should have a strong understanding of how to implement navigation patterns with tabs, swipe views, and a navigation drawer. You should also understand how to provide proper Up and Back navigation.</string>
+    <string name="smallText">This is where all started and I started learnign things properly</string>
+</resources>
