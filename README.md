@@ -1,5 +1,2 @@
 # materialDesignDialogbox
-
-[![java light](https://github.com/sahityakumarsuman/materialDesignDialogbox/ScreenShots/chooser_dialog.jpeg)](https://github.com/sahityakumarsuman/materialDesignDialogbox/ScreenShots/dialog.jpeg)
-
-![Alt text](https://github.com/sahityakumarsuman/materialDesignDialogbox/ScreenShots/dialog.jpeg "Optional title")
+[![dialog.jpg](https://s20.postimg.org/cpvbpygf1/dialog.jpg)](https://postimg.org/image/alayoves9/)
